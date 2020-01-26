@@ -1,0 +1,27 @@
+{
+  "name": "opengl-seed-wasm",
+  "version": "1.0.0",
+  "description": "An example of running the OpenGL Seed in WebAssembly",
+  "main": "OpenGLSeed.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaingalvan/opengl-seed-wasm.git"
+  },
+  "keywords": [
+    "opengl",
+    "webgl",
+    "seed"
+  ],
+  "author": "Alain Galvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alaingalvan/opengl-seed-wasm/issues"
+  },
+  "homepage": "https://github.com/alaingalvan/opengl-seed-wasm#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
