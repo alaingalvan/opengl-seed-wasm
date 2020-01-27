@@ -4,7 +4,7 @@
   "description": "An example of running the OpenGL Seed in WebAssembly",
   "main": "OpenGLSeed.js",
   "scripts": {
-    "start": "http-server"
+    "start": "npm i && http-server"
   },
   "repository": {
     "type": "git",
